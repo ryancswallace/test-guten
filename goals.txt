@@ -1,0 +1,28 @@
+* testing
+    * unit tests
+    * integration tests
+    * data ingestion quality checks
+* tooling
+    * pre-commit
+    * tox
+    * poetry
+    * mypy
+* CI/CD
+    * automated tests
+    * automated deployments
+* documentation
+    * API documentation
+    * design doc
+    * docstrings
+* publishing
+    * PyPI
+* infrastructure
+    * IaC
+    * lower environment
+    * monitoring
+    * high availability
+* deployment
+    * docker compose?
+    * k8s?
+* performance
+    * Redis cache?
